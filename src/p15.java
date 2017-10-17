@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class p2{
+public class p15{
     public static void main(String args[])throws Exception{
         Scanner scin = new Scanner(System.in);
         int a=0, b=0, c=0, t=0;
